@@ -1,0 +1,12 @@
+D:\ProjectsLearnC\BlaCrudWeb\Shared\bin\Debug\net6.0\BlaCrudWeb.Shared.deps.json
+D:\ProjectsLearnC\BlaCrudWeb\Shared\bin\Debug\net6.0\BlaCrudWeb.Shared.dll
+D:\ProjectsLearnC\BlaCrudWeb\Shared\bin\Debug\net6.0\BlaCrudWeb.Shared.pdb
+D:\ProjectsLearnC\BlaCrudWeb\Shared\obj\Debug\net6.0\BlaCrudWeb.Shared.csproj.AssemblyReference.cache
+D:\ProjectsLearnC\BlaCrudWeb\Shared\obj\Debug\net6.0\BlaCrudWeb.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsLearnC\BlaCrudWeb\Shared\obj\Debug\net6.0\BlaCrudWeb.Shared.AssemblyInfoInputs.cache
+D:\ProjectsLearnC\BlaCrudWeb\Shared\obj\Debug\net6.0\BlaCrudWeb.Shared.AssemblyInfo.cs
+D:\ProjectsLearnC\BlaCrudWeb\Shared\obj\Debug\net6.0\BlaCrudWeb.Shared.csproj.CoreCompileInputs.cache
+D:\ProjectsLearnC\BlaCrudWeb\Shared\obj\Debug\net6.0\BlaCrudWeb.Shared.dll
+D:\ProjectsLearnC\BlaCrudWeb\Shared\obj\Debug\net6.0\refint\BlaCrudWeb.Shared.dll
+D:\ProjectsLearnC\BlaCrudWeb\Shared\obj\Debug\net6.0\BlaCrudWeb.Shared.pdb
+D:\ProjectsLearnC\BlaCrudWeb\Shared\obj\Debug\net6.0\ref\BlaCrudWeb.Shared.dll
